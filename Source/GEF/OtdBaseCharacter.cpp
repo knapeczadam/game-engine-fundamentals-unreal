@@ -15,7 +15,6 @@ AOtdBaseCharacter::AOtdBaseCharacter()
 void AOtdBaseCharacter::BeginPlay()
 {
 	Super::BeginPlay();
-	OnFellOutOfWorld();
 	
 }
 
