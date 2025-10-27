@@ -27,8 +27,8 @@ The result is a **first-person puzzle game** built around logic, timing, and AI 
 
 ## 👨‍🏫 Teaching Staff
 
-- **Co-ordinator:** Lecluyse Brecht  
-- **Other teaching staff:** De Paepe Emiel  
+- **Co-ordinator:** Brecht Lecluyse
+- **Other teaching staff:** Emiel De Paepe
 
 ---
 
